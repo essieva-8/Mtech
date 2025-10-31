@@ -1,6 +1,6 @@
-# Assiciation Rule mining from transaction dataset
+# Association Rule mining from transaction dataset
 
-This project performs Assiciation Rule mining on the "Online Retail" dataset from the UCI Machine Learning Repository. It uses the Apriori and FP-Growth algorithms to identify frequent itemsets and generate association rules.
+This project performs Association Rule mining on the "Online Retail" dataset from the UCI Machine Learning Repository. It uses the Apriori and FP-Growth algorithms to identify frequent itemsets and generate association rules.
 
 ---
 
