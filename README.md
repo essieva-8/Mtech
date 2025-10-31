@@ -29,3 +29,4 @@ The 7-step process followed in the notebook is:
 ### Key Libraries Used
 * pandas
 * mlxtend (for Apriori, FP-Growth, and association_rules)
+* openpyxl (for reading the Excel file)
