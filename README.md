@@ -7,8 +7,7 @@ This project performs Association Rule mining on the "Online Retail" dataset fro
 ### Notebook
 
 The main analysis is contained in the Colab notebook:
-
-* **[Association Rule Mining -  Apriori and FP-Growth.ipynb](Association Rule Mining -  Apriori and FP-Growth.ipynb)**
+**[Association Rule Mining -  Apriori and FP-Growth.ipynb]**
 
 ---
 
